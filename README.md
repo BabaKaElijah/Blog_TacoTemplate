@@ -1,6 +1,6 @@
 # Blog_TacoTemplate
 My first basic html website code
-Created a simple website about a place that sells Tacos
+Created a simple website about a place that sells Tacos.
 The website uses three html files:
 - Main file which is the home page
 - The Store Hours file
